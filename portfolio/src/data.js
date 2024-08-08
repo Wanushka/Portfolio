@@ -17,7 +17,6 @@ export const menu = [
 ]
 
 
-
 export const projects = [
     { 
       id:1,
